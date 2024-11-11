@@ -23,7 +23,7 @@ if($_FILES['image']['size'] == 0){
 else{
     $imageName = uniqid() .  '.' . pathinfo($_FILES['image']['name'], PATHINFO_EXTENSION);
     move_uploaded_file($_FILES['image']['tmp_name'], $_SERVER['DOCUMENT_ROOT'] . '/public/' . $imageName);
-    $root =  '80.90.190.147/public/' . $imageName;
+    $root =  'https://admin.razumneuro.ru/public/' . $imageName;
 }
 
 
