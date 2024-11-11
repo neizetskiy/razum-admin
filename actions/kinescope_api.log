@@ -1,0 +1,116 @@
+Headers: Array
+(
+    [0] => X-Video-Title: kinescopetest.mp4
+    [1] => X-Video-Description: 
+    [2] => X-File-Name: kinescopetest.mp4
+    [3] => Authorization: Bearer c6c0181c-77d7-4f3e-8ffa-cd99bdfccd4c
+)
+
+Response: {
+	"data": {
+		"id": "04a9d67d-6f12-4021-b34b-80c8463acec2",
+		"project_id": "611138fb-6e4e-4495-b163-bcf7912ab713",
+		"folder_id": null,
+		"player_id": "2f8b15cd-a7e1-4041-8798-3b91d95aca46",
+		"type": "video",
+		"status": "processing",
+		"title": "kinescopetest.mp4",
+		"description": "",
+		"version": 1,
+		"privacy_type": "anywhere",
+		"privacy_domains": [],
+		"tags": [],
+		"play_link": "https://kinescope.io/0zpcdAWie8k1t2T2q3sxHL",
+		"embed_link": "https://kinescope.io/embed/0zpcdAWie8k1t2T2q3sxHL",
+		"created_at": "2024-11-11T13:02:05.920792Z",
+		"poster": null
+	}
+}
+
+Headers: Array
+(
+    [0] => X-Video-Title: kinescopetest.mp4
+    [1] => X-Video-Description: 
+    [2] => X-File-Name: kinescopetest.mp4
+    [3] => Authorization: Bearer 6d8c234a-26c7-4bf2-984b-1005040cfd38
+)
+
+Response: {
+	"data": {
+		"id": "77528f26-3948-41f7-a5e3-ec9faab3cf6f",
+		"project_id": "e7889499-eb38-405b-84a5-caef1f688436",
+		"folder_id": null,
+		"player_id": "27e19378-95c5-400e-be51-a6927194bfd0",
+		"type": "video",
+		"status": "processing",
+		"title": "kinescopetest.mp4",
+		"description": "",
+		"version": 1,
+		"privacy_type": "anywhere",
+		"privacy_domains": [],
+		"tags": [],
+		"play_link": "https://kinescope.io/fJAG8itCCwDoEKbvhJnTBM",
+		"embed_link": "https://kinescope.io/embed/fJAG8itCCwDoEKbvhJnTBM",
+		"created_at": "2024-11-11T13:11:26.751508Z",
+		"poster": null
+	}
+}
+
+Headers: Array
+(
+    [0] => X-Video-Title: bananchiki.mp4
+    [1] => X-Video-Description: 
+    [2] => X-File-Name: bananchiki.mp4
+    [3] => Authorization: Bearer 6d8c234a-26c7-4bf2-984b-1005040cfd38
+)
+
+Response: {
+	"data": {
+		"id": "1c3f9998-ebeb-4e24-abf1-1ce540198daf",
+		"project_id": "e7889499-eb38-405b-84a5-caef1f688436",
+		"folder_id": null,
+		"player_id": "27e19378-95c5-400e-be51-a6927194bfd0",
+		"type": "video",
+		"status": "processing",
+		"title": "bananchiki.mp4",
+		"description": "",
+		"version": 1,
+		"privacy_type": "anywhere",
+		"privacy_domains": [],
+		"tags": [],
+		"play_link": "https://kinescope.io/4ujqZz2kXpp2NH2KKUA2rR",
+		"embed_link": "https://kinescope.io/embed/4ujqZz2kXpp2NH2KKUA2rR",
+		"created_at": "2024-11-11T13:41:04.859265Z",
+		"poster": null
+	}
+}
+
+Headers: Array
+(
+    [0] => X-Video-Title: bananchiki.mp4
+    [1] => X-Video-Description: 
+    [2] => X-File-Name: bananchiki.mp4
+    [3] => Authorization: Bearer 6d8c234a-26c7-4bf2-984b-1005040cfd38
+)
+
+Response: {
+	"data": {
+		"id": "8bb1e3df-1881-4ae5-bbfd-0ce8bcb3e444",
+		"project_id": "e7889499-eb38-405b-84a5-caef1f688436",
+		"folder_id": null,
+		"player_id": "27e19378-95c5-400e-be51-a6927194bfd0",
+		"type": "video",
+		"status": "processing",
+		"title": "bananchiki.mp4",
+		"description": "",
+		"version": 1,
+		"privacy_type": "anywhere",
+		"privacy_domains": [],
+		"tags": [],
+		"play_link": "https://kinescope.io/ifvpn3j87nPj6kqxkgxhqL",
+		"embed_link": "https://kinescope.io/embed/ifvpn3j87nPj6kqxkgxhqL",
+		"created_at": "2024-11-11T17:30:14.5887Z",
+		"poster": null
+	}
+}
+
